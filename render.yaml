@@ -1,0 +1,44 @@
+services:
+  - type: web
+    name: kolmesh-api
+    runtime: node
+    region: frankfurt
+    plan: free
+    # Runs from the repo root so the pnpm workspace lockfile is used.
+    buildCommand: corepack enable && corepack prepare pnpm@9.12.0 --activate && pnpm install --frozen-lockfile --filter @kolmesh/api && pnpm --filter @kolmesh/api build && pnpm --filter @kolmesh/api db:migrate
+    startCommand: pnpm --filter @kolmesh/api start
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "true"
+      - key: PORT
+        value: "10000"
+      - key: DATABASE_URL
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: SUPABASE_BUCKET
+        value: media
+      - key: JWT_SECRET
+        generateValue: true
+      - key: COOKIE_SECRET
+        generateValue: true
+      - key: ALLOWED_ORIGINS
+        sync: false
+      - key: TURNSTILE_SECRET_KEY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: MAIL_FROM
+        sync: false
+      - key: MAIL_TO
+        sync: false
+      - key: WEB_URL
+        sync: false
+      - key: REVALIDATE_SECRET
+        sync: false

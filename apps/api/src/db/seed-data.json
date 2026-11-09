@@ -1,0 +1,749 @@
+{
+  "categories": [
+    {
+      "slug": "wire-mesh",
+      "name": "Wire Mesh",
+      "description": "A range of wire meshes including galvanized, PVC-coated, and welded mesh designed for durability and strength.",
+      "image": "/images/05/GLNEWPVC-768x768.jpg",
+      "sortOrder": 0
+    },
+    {
+      "slug": "nails",
+      "name": "Nails",
+      "description": "Various types of nails including common nails, concrete nails, roofing nails, and twisted nails.",
+      "image": "/images/05/CN2-600x600.jpg",
+      "sortOrder": 1
+    },
+    {
+      "slug": "hardware",
+      "name": "Hardware",
+      "description": "Essential hardware tools such as headpans, wheelbarrows, shovels, pickaxes, and other metal items.",
+      "image": "/images/05/wb1-768x768.jpg",
+      "sortOrder": 2
+    },
+    {
+      "slug": "louvre-glass",
+      "name": "Louvre Glass",
+      "description": "Quality louvre glass products including frames, mosquito nets, fiber nets, and galvanized nets.",
+      "image": "/images/05/waawa2-600x600.jpg",
+      "sortOrder": 3
+    },
+    {
+      "slug": "household-products",
+      "name": "Household Products",
+      "description": "Items like water hoses, tissue paper, sprayers, scales, and adhesive tapes for everyday use.",
+      "image": "/images/05/Artboard-1.png",
+      "sortOrder": 4
+    },
+    {
+      "slug": "other-products",
+      "name": "Other Products",
+      "description": "Various other products such as roofing sheets, wall spikes, sandpaper, and motor tires.",
+      "image": "/images/05/V28.jpg",
+      "sortOrder": 5
+    }
+  ],
+  "products": [
+    {
+      "slug": "flat-welded-mesh-galvanized",
+      "name": "Flat Welded Mesh (Galvanized)",
+      "categorySlug": "wire-mesh",
+      "description": "Flat Welded Mesh (Galvanized) is a versatile, durable material ideal for fencing, construction, and industrial use. Its galvanized coating ensures resistance to rust and corrosion, offering long-lasting performance in diverse environments. The flat design provides easy handling and installation, while its sturdy welded joints ensure strength and stability. Perfect for secure enclosures, partitions, and reinforced structures.",
+      "specs": [
+        "Size: 2.5 mm 3mm Type: Bigger Hole and Smaller Hole"
+      ],
+      "images": [
+        "/images/05/GLNEWPVC-768x768.jpg",
+        "/images/05/GLNEWPVC_2-768x768.jpg",
+        "/images/05/GLNEWPVC_3-768x768.jpg",
+        "/images/05/GLNEWPVC_4-768x768.jpg",
+        "/images/05/GLNEWPVC_5-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 0
+    },
+    {
+      "slug": "flat-welded-mesh-pvc",
+      "name": "Flat Welded Mesh (PVC)",
+      "categorySlug": "wire-mesh",
+      "description": "Flat Welded Mesh (PVC) combines strength and durability with a protective PVC coating for enhanced resistance to weather, corrosion, and wear. Its smooth surface ensures safe handling and a polished finish, making it ideal for fencing, construction, and decorative applications. The welded joints offer excellent stability, while the PVC layer adds longevity and aesthetic appeal. Perfect for secure and stylish enclosures.",
+      "specs": [
+        "Color: Blue, Lightgreen and Dark green"
+      ],
+      "images": [
+        "/images/05/V26-768x768.jpg",
+        "/images/05/Coated-524x563.jpg",
+        "/images/05/coated2-524x563.jpg"
+      ],
+      "isFeatured": false,
+      "inStock": true,
+      "sortOrder": 1
+    },
+    {
+      "slug": "expanded-mesh",
+      "name": "Expanded Mesh",
+      "categorySlug": "wire-mesh",
+      "description": "Expanded Mesh is a versatile material featuring a unique pattern of interconnected strands, offering strength, durability, and ventilation. Its lightweight yet robust design makes it ideal for fencing, walkways, machine guards, and architectural accents. The mesh's open structure provides excellent airflow and visibility while maintaining security. Perfect for both functional and decorative applications across various industries.",
+      "specs": [
+        "Size:40*80*3; 25*50*1"
+      ],
+      "images": [
+        "/images/05/Mesex.jpg",
+        "/images/05/expaned-wiremesh-524x563.webp",
+        "/images/05/V20-1536x1536.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 2
+    },
+    {
+      "slug": "mesh-panel",
+      "name": "Mesh Panel",
+      "categorySlug": "wire-mesh",
+      "description": "Mesh Panels are strong and versatile solutions for fencing, partitions, and structural reinforcement. Designed with precision, they provide durability, stability, and a sleek appearance. Ideal for security enclosures, industrial applications, or decorative purposes, these panels offer easy installation and long-lasting performance. Perfect for projects requiring strength and style.",
+      "specs": [
+        "Color: Blue, Green and Yellow; Size(Width:3m Height:1.8m)"
+      ],
+      "images": [
+        "/images/05/nf2-768x768.jpg",
+        "/images/05/nf7-768x768.jpg",
+        "/images/05/M4eshPanel-768x768.jpg",
+        "/images/05/nf3-524x563.jpg",
+        "/images/05/nf5-768x768.jpg",
+        "/images/05/nf6-373x404.jpg"
+      ],
+      "isFeatured": false,
+      "inStock": false,
+      "sortOrder": 3
+    },
+    {
+      "slug": "round-mesh",
+      "name": "Round Mesh",
+      "categorySlug": "wire-mesh",
+      "description": "Round Mesh features circular patterns crafted for strength, flexibility, and aesthetic appeal. Ideal for filtration, decorative applications, and protective barriers, it offers excellent airflow and visibility. Its durable construction ensures longevity, making it a reliable choice for both industrial and design-focused projects. Perfect for combining functionality with modern style.",
+      "specs": [
+        "Types: Green color(3',4'), Blue Color (3',4'),Gal.wire(1x1, 1x½)"
+      ],
+      "images": [
+        "/images/05/V29-1536x1536.jpg",
+        "/images/05/V30-768x768.jpg",
+        "/images/05/V32-524x563.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 4
+    },
+    {
+      "slug": "hexagonal-mesh",
+      "name": "Hexagonal Mesh",
+      "categorySlug": "wire-mesh",
+      "description": "Hexagonal Mesh is a versatile and durable material featuring a honeycomb design for superior strength and flexibility. Commonly used in fencing, poultry enclosures, and reinforcement, it offers excellent stability and resistance to deformation. Its open structure allows for airflow and visibility, making it ideal for both functional and decorative applications. Perfect for agricultural, industrial, and construction needs.",
+      "specs": [
+        "Size: 1/2, 3/4"
+      ],
+      "images": [
+        "/images/05/V21-1536x1536.jpg",
+        "/images/05/V22-768x768.jpg",
+        "/images/05/HEX-524x563.jpg",
+        "/images/05/HEX3-768x768.jpg",
+        "/images/05/HEX4-500x500.jpg"
+      ],
+      "isFeatured": false,
+      "inStock": true,
+      "sortOrder": 5
+    },
+    {
+      "slug": "chainlink-mesh",
+      "name": "Chainlink Mesh",
+      "categorySlug": "wire-mesh",
+      "description": "Chainlink Mesh is a durable and flexible fencing material designed with interwoven steel wires forming a diamond pattern. Ideal for securing properties, sports fields, and industrial sites, it offers strength, visibility, and easy installation. With corrosion-resistant options like galvanized or PVC-coated finishes, it ensures long-lasting performance in various environments. Perfect for reliable and versatile boundary solutions.",
+      "specs": [
+        "Types: Green color(4ft,6ft), galvernized wire (4ft,6ft)"
+      ],
+      "images": [
+        "/images/05/chainlink2-524x563.jpg",
+        "/images/05/ch1-524x563.jpg",
+        "/images/05/ch2-600x600.jpg",
+        "/images/05/ch3-524x563.jpg",
+        "/images/05/ch4-524x563.jpg",
+        "/images/05/ch5.jpg",
+        "/images/05/ch6-524x563.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 6
+    },
+    {
+      "slug": "razor-wire",
+      "name": "Razor Wire",
+      "categorySlug": "wire-mesh",
+      "description": "Razor Wire is a high-security fencing material designed with sharp blades to deter intruders effectively. Its durable construction and galvanized or stainless-steel options ensure resistance to corrosion and harsh weather conditions. Commonly used in military zones, prisons, and high-security areas, it offers unparalleled protection. Perfect for safeguarding properties with maximum security needs.",
+      "specs": [
+        "Types: Big coil, Small coil"
+      ],
+      "images": [
+        "/images/05/V11-768x768.jpg",
+        "/images/05/rw1-768x768.jpg",
+        "/images/05/rw2-768x768.jpg",
+        "/images/05/rw3-524x563.jpg",
+        "/images/05/rw4-524x563.jpg"
+      ],
+      "isFeatured": false,
+      "inStock": true,
+      "sortOrder": 7
+    },
+    {
+      "slug": "barbed-wire",
+      "name": "Barbed Wire",
+      "categorySlug": "wire-mesh",
+      "description": "Barbed Wire is a cost-effective and durable security fencing solution, featuring sharp barbs to deter unauthorized access. Ideal for agricultural, industrial, and property boundaries, it provides excellent protection and easy installation. Constructed from galvanized or stainless steel, it resists corrosion and harsh weather conditions. Perfect for safeguarding perimeters with reliability and efficiency.",
+      "specs": [
+        "Size: (1.8mm and 2.3mm)"
+      ],
+      "images": [
+        "/images/05/photo_2023-05-22_12-42-23-373x404.jpg",
+        "/images/05/V2-1024x1024.jpg",
+        "/images/05/bared-wire-100x100.jpg",
+        "/images/05/bb2-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 8
+    },
+    {
+      "slug": "black-wire",
+      "name": "Black Wire",
+      "categorySlug": "wire-mesh",
+      "description": "Black Wire is a versatile and durable material commonly used in construction, binding, and crafting applications. Its dark finish provides a sleek appearance and resistance to corrosion, ensuring long-lasting performance. Flexible yet strong, it’s ideal for tying rebar, bundling materials, or creating decorative structures. Perfect for both industrial and creative uses.",
+      "specs": [
+        "Size: (1.8mm and 2.3mm)"
+      ],
+      "images": [
+        "/images/05/V6-1536x1536.jpg",
+        "/images/05/V5-1024x1024.jpg",
+        "/images/05/bb1-524x563.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 9
+    },
+    {
+      "slug": "gal-wire",
+      "name": "Gal Wire",
+      "categorySlug": "wire-mesh",
+      "description": "Gal Wire, or Galvanized Wire, is a highly durable wire coated with a protective layer of zinc to prevent rust and corrosion. It is commonly used in fencing, construction, agriculture, and various industrial applications due to its strength and flexibility. The zinc coating ensures long-lasting performance, even in harsh weather conditions. Ideal for securing structures, reinforcing projects, or crafting enclosures. Perfect for both outdoor and industrial use.",
+      "specs": [
+        "Size(2.3mm and 2.7mm)"
+      ],
+      "images": [
+        "/images/05/V8-1536x1536.jpg",
+        "/images/05/V5-1024x1024.jpg",
+        "/images/05/V7-524x563.jpg",
+        "/images/05/gv1.jpg",
+        "/images/05/gv2.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 10
+    },
+    {
+      "slug": "green-pvc-coated-wire",
+      "name": "Green PVC Coated Wire",
+      "categorySlug": "wire-mesh",
+      "description": "Green PVC Coated Wire is a versatile, corrosion-resistant wire coated with a layer of green PVC for added durability and protection. Its smooth, weather-resistant coating makes it ideal for fencing, garden use, and outdoor applications. The green finish blends seamlessly with natural surroundings, offering both functionality and aesthetic appeal. Perfect for long-lasting, low-maintenance installations in residential, agricultural, and industrial settings.",
+      "specs": [
+        "Size(3mm)"
+      ],
+      "images": [
+        "/images/05/V9-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 11
+    },
+    {
+      "slug": "common-nails",
+      "name": "Common Nails",
+      "categorySlug": "nails",
+      "description": "Common Nails are versatile and strong fasteners used for general construction, woodworking, and framing applications. Made from durable steel, they offer excellent holding power and can be easily driven into wood, concrete, or masonry. With a flat head for secure anchoring, they are ideal for building structures, furniture, and other heavy-duty tasks. Perfect for a wide range of DIY and professional projects.",
+      "specs": [
+        "Size: 1,1.5, 2, 2.5, 3, 4, 5, 6"
+      ],
+      "images": [
+        "/images/05/05-scaled.webp",
+        "/images/05/COMM1.jpg",
+        "/images/05/COMM2-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 12
+    },
+    {
+      "slug": "concrete-nail",
+      "name": "Concrete Nail",
+      "categorySlug": "nails",
+      "description": "Concrete Nails are heavy-duty fasteners designed for securing materials to concrete, masonry, or brick surfaces. Made from hardened steel, they feature a robust, tapered design for penetrating tough substrates with ease. Ideal for construction, renovation, and repair projects, these nails ensure reliable and long-lasting performance. Perfect for demanding applications requiring strength and durability.",
+      "specs": [
+        "Size: 1, 1.5, 2, 2.5, 3, 4"
+      ],
+      "images": [
+        "/images/05/╕╓╢n-768x1024.jpg",
+        "/images/05/CN2-600x600.jpg",
+        "/images/05/CN3-1024x1024.jpg",
+        "/images/05/CN2.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 13
+    },
+    {
+      "slug": "felt-nail",
+      "name": "Felt Nail",
+      "categorySlug": "nails",
+      "description": "Felt Nails are specialized fasteners designed for securing roofing felt, shingles, or underlayments. Featuring a large, flat head, they provide excellent holding power and prevent tearing of soft materials. Made from durable, corrosion-resistant materials, they ensure long-lasting performance in various weather conditions. Ideal for roofing and waterproofing projects, offering reliability and ease of installation.",
+      "specs": [
+        "Felt Nail size: 1,1.5,2,2.5"
+      ],
+      "images": [
+        "/images/05/FELTNAIL2-373x469.jpg",
+        "/images/05/FELTNAIL-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 14
+    },
+    {
+      "slug": "twisted-nail",
+      "name": "Twisted Nail",
+      "categorySlug": "nails",
+      "description": "Twisted Nails are robust fasteners featuring a spiral shank design for superior grip and holding power. Ideal for securing wood, decking, or structural components, they resist loosening over time due to vibrations or environmental changes. Made from durable materials, they ensure long-lasting performance in both indoor and outdoor applications. Perfect for construction and carpentry projects requiring extra strength and stability.",
+      "specs": [],
+      "images": [
+        "/images/05/tw2.jpg",
+        "/images/05/tw1.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 15
+    },
+    {
+      "slug": "roofing-nail",
+      "name": "Roofing Nail",
+      "categorySlug": "nails",
+      "description": "Roofing Nails are specialized fasteners designed for attaching roofing materials like shingles, felt, and underlayment. Featuring a wide, flat head for maximum holding power and a smooth or ring shank for added grip, they ensure secure and weather-resistant installations. Often made from galvanized or stainless steel, they resist rust and corrosion, making them ideal for outdoor use. Perfect for durable and reliable roofing projects.",
+      "specs": [
+        "Types: Smooth, twisted"
+      ],
+      "images": [
+        "/images/05/roofing-nail2-768x768.jpg",
+        "/images/05/Roofing-nail-768x768.jpg",
+        "/images/05/rww1.webp",
+        "/images/05/rww2.webp",
+        "/images/05/rf11.webp",
+        "/images/05/rf12.webp"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 16
+    },
+    {
+      "slug": "shoe-tack",
+      "name": "Shoe Tack",
+      "categorySlug": "nails",
+      "description": "Shoe Tacks are small, durable fasteners designed for securing shoe soles and upholstery materials. Made from strong, corrosion-resistant materials, they provide a firm grip and long-lasting performance. Their compact size and sharp points ensure easy application without damaging the material. Perfect for shoemaking, repairs, and fine upholstery work.",
+      "specs": [
+        "Types",
+        "size: 3/4, 5/8"
+      ],
+      "images": [
+        "/images/05/shoe-tack2.webp",
+        "/images/05/SHOE-TACKS-524x563.jpg",
+        "/images/05/WeChat-Image_20230418092826.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 17
+    },
+    {
+      "slug": "headpan",
+      "name": "HeadPan",
+      "categorySlug": "hardware",
+      "description": "A Head Pan is a durable, shallow container commonly used in construction and agricultural work. Designed for carrying sand, cement, gravel, or other materials, it is made from robust materials like metal or plastic for long-lasting use. Its lightweight design ensures easy handling, making it an essential tool for labor-intensive tasks. Perfect for efficient material transport in various environments.",
+      "specs": [
+        "Color: black and silver",
+        "Size: 0.6mm, 0.8mm"
+      ],
+      "images": [
+        "/images/05/hp1-1024x1024.jpg",
+        "/images/05/hp3-524x563.jpg",
+        "/images/05/hp6-768x768.jpg",
+        "/images/05/hp4-1024x1024.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 18
+    },
+    {
+      "slug": "wheelbarrow",
+      "name": "WheelBarrow",
+      "categorySlug": "hardware",
+      "description": "A Wheelbarrow is a versatile, single-wheeled cart designed for transporting materials like soil, sand, cement, or debris. Equipped with handles for easy maneuverability and a sturdy wheel for stability, it is ideal for construction, gardening, and landscaping tasks. Made from durable materials, it ensures long-lasting performance under heavy loads. Perfect for efficient material handling in various environments.",
+      "specs": [
+        "Types: WheelBarrow with Motor tyre",
+        "Solid Wheelbarrow with black pan or silver pan"
+      ],
+      "images": [
+        "/images/05/wb1-768x768.jpg",
+        "/images/05/wb2-1-768x768.jpg",
+        "/images/05/wb2-768x768.jpg",
+        "/images/05/wb1-1-1024x1024.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 19
+    },
+    {
+      "slug": "shovel",
+      "name": "Shovel",
+      "categorySlug": "hardware",
+      "description": "A Shovel is a versatile hand tool designed for digging, lifting, and moving materials like soil, sand, gravel, or snow. Featuring a broad blade and sturdy handle, it provides durability and efficiency for construction, gardening, and landscaping tasks. Available in various shapes and materials to suit specific needs, it’s perfect for heavy-duty and everyday applications.",
+      "specs": [
+        "Types: Wooden, Metal Size:Loading, Flat, Round"
+      ],
+      "images": [
+        "/images/05/shv4-1024x1024.jpg",
+        "/images/05/shv2.jpg",
+        "/images/05/shv4-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 20
+    },
+    {
+      "slug": "pickaxe",
+      "name": "PickAxe",
+      "categorySlug": "hardware",
+      "description": "A Pickaxe is a heavy-duty tool designed for breaking hard surfaces like rock, concrete, and soil. It features a sturdy handle and a dual-sided head, with one pointed end for precision breaking and a flat or chisel edge for cutting or prying. Ideal for construction, mining, and landscaping, it offers durability and efficiency for tough tasks. Perfect for challenging excavation and demolition work.",
+      "specs": [
+        "Types: Long and Short"
+      ],
+      "images": [
+        "/images/05/V10-1024x1024.jpg",
+        "/images/05/pickaxe.jpg",
+        "/images/05/rf13-1024x1024.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 21
+    },
+    {
+      "slug": "mattock",
+      "name": "Mattock",
+      "categorySlug": "hardware",
+      "description": "A Mattock is a versatile digging tool designed for breaking up hard soil, cutting roots, and excavating. It features a sturdy handle with a dual-purpose head: one end has a broad, flat blade for digging or hoeing, while the other has a pointed or chisel edge for cutting and prying. Ideal for gardening, landscaping, and agricultural tasks, the mattock is durable and efficient for tough ground preparation.",
+      "specs": [],
+      "images": [
+        "/images/05/mta.jpg",
+        "/images/05/mna.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 22
+    },
+    {
+      "slug": "electrodes",
+      "name": "Electrodes",
+      "categorySlug": "hardware",
+      "description": "Electrodes are conductive materials used in various applications, including welding, electrolysis, and electrical circuits. Made from materials like graphite, copper, or metal alloys, they facilitate the flow of electric current to or from a medium. In welding, they create an arc for fusion, while in electroplating, they help in transferring ions. Perfect for industrial, scientific, and electrical applications requiring precise and reliable conductivity.",
+      "specs": [
+        "Sizes: Φ2.5,Φ3.2,Φ4.0"
+      ],
+      "images": [
+        "/images/05/Electrods-1-768x768.jpg",
+        "/images/05/elec13-768x768.jpg",
+        "/images/05/elec12-1024x1024.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 23
+    },
+    {
+      "slug": "glass",
+      "name": "Glass",
+      "categorySlug": "louvre-glass",
+      "description": "Glass is a versatile, transparent material made from silica and other components, commonly used in windows, containers, and decorative items. It is known for its clarity, durability, and ability to be molded into various shapes and sizes. Glass is widely used in architecture, automotive, packaging, and technology for its strength and aesthetic appeal. Its non-porous nature also makes it easy to clean and maintain. Perfect for both functional and decorative applications across industries.",
+      "specs": [
+        "Types: Obscure, Brown Karatachi, Blue; Size:24, 30, 36"
+      ],
+      "images": [
+        "/images/05/waawa2-600x600.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 24
+    },
+    {
+      "slug": "louvre-frame",
+      "name": "Louvre frame",
+      "categorySlug": "louvre-glass",
+      "description": "A Louvre Frame is a type of structure designed to hold louvres, which are angled slats used to regulate airflow and light while providing privacy. Typically made from durable materials like wood, aluminum, or PVC, the frame ensures stability and secure placement of the louvres. Commonly used in windows, doors, and ventilation systems, it allows for effective air circulation and aesthetic appeal. Perfect for enhancing ventilation and controlling sunlight in residential or commercial spaces.",
+      "specs": [
+        "Sizes: 3blade,4blade,5blade,6blade,7blade,8blade,10blade; Types: Galvanized Plastic and Aluminium Plastic"
+      ],
+      "images": [
+        "/images/05/louvre-frame-500x500.jpg",
+        "/images/05/Louvre-Frames-524x563.webp",
+        "/images/05/lf1-370x518.jpg",
+        "/images/05/lf2-500x500.jpg",
+        "/images/05/lf3-1024x1024.jpg",
+        "/images/05/lf4-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 25
+    },
+    {
+      "slug": "mosquito-net",
+      "name": "Mosquito Net",
+      "categorySlug": "louvre-glass",
+      "description": "A Mosquito Net is a fine mesh barrier designed to protect against mosquito bites and other insects, providing a safe and comfortable environment. Typically made from lightweight, breathable fabric like nylon or polyester, it is used over beds, windows, or doorways to prevent pests from entering. Ideal for outdoor activities, travel, and home use, mosquito nets offer protection in areas where mosquito-borne diseases are prevalent. Perfect for ensuring a peaceful night's sleep and safeguarding health.",
+      "specs": [
+        "Color: Blue, Green, Yellow, Black"
+      ],
+      "images": [
+        "/images/05/MN1-768x768.jpg",
+        "/images/05/colornet.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 26
+    },
+    {
+      "slug": "fiber-net",
+      "name": "Fiber Net",
+      "categorySlug": "louvre-glass",
+      "description": "Fiber Net is a durable, lightweight material made from synthetic fibers, commonly used in construction, agriculture, and industrial applications. It offers strength and flexibility, making it ideal for reinforcing concrete, supporting plant growth, or providing safety barriers. Resistant to wear and environmental factors, Fiber Net is an excellent solution for a variety of tasks, offering long-lasting performance. Perfect for enhancing structural stability and providing efficient protection in various industries.",
+      "specs": [
+        "Colors: Black and Grey"
+      ],
+      "images": [
+        "/images/05/MN2.jpg",
+        "/images/05/V19.jpg",
+        "/images/05/V16.jpg",
+        "/images/05/V17-1536x1536.jpg",
+        "/images/05/V18-1536x1536.jpg",
+        "/images/05/V15.jpg",
+        "/images/05/IMG_2288.webp"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 27
+    },
+    {
+      "slug": "galvanized-net",
+      "name": "Galvanized Net",
+      "categorySlug": "louvre-glass",
+      "description": "Galvanized Net is a strong, corrosion-resistant wire mesh coated with a layer of zinc to enhance durability and protect against rust. Commonly used in construction, agriculture, and security applications, it provides excellent strength and flexibility for fencing, reinforcement, and enclosures. The galvanized coating ensures long-lasting performance in harsh weather conditions. Perfect for creating secure boundaries, cages, and protective barriers in both indoor and outdoor environments.",
+      "specs": [],
+      "images": [
+        "/images/05/23_-768x768.jpg",
+        "/images/05/23_2.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 28
+    },
+    {
+      "slug": "water-hose",
+      "name": "Water Hose",
+      "categorySlug": "household-products",
+      "description": "A Water Hose is a flexible, durable tube designed for transporting water, commonly used in gardening, cleaning, and construction. Made from materials like rubber, PVC, or reinforced layers, it ensures reliable performance and resistance to kinks and leaks. Equipped with connectors for easy attachment to faucets or nozzles, it provides convenience and efficiency. Perfect for watering plants, washing vehicles, or handling light-duty water transfer tasks.",
+      "specs": [
+        "Types: PVC Soft Water Hose Pure, Water Hose Striped; Color: Red, Green,Yellow"
+      ],
+      "images": [
+        "/images/05/Artboard-1.png",
+        "/images/05/water-hose-600x600.jpg",
+        "/images/05/wh32-1024x1024.jpg",
+        "/images/05/wh33-600x600.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 29
+    },
+    {
+      "slug": "tissue-paper",
+      "name": "Tissue Paper",
+      "categorySlug": "household-products",
+      "description": "Tissue Paper is a soft, lightweight paper product designed for a variety of uses, including hygiene, cleaning, and packaging. Its absorbent and gentle texture makes it ideal for personal care, wiping surfaces, or wrapping delicate items. Available in different forms, such as facial tissues, toilet paper, and decorative sheets, it combines functionality with convenience. Perfect for everyday use at home, in offices, or on the go.",
+      "specs": [
+        "Types: Jumbo roll,Extraction"
+      ],
+      "images": [
+        "/images/05/kl23.webp",
+        "/images/05/kl24.webp",
+        "/images/05/kl36.webp",
+        "/images/05/kl37.webp"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 30
+    },
+    {
+      "slug": "sprayer",
+      "name": "Sprayer",
+      "categorySlug": "household-products",
+      "description": "A Sprayer is a versatile tool designed to distribute liquids such as water, pesticides, or cleaning agents evenly over surfaces or plants. It typically features a tank, a nozzle, and a pump mechanism for controlled application. Sprayers are widely used in agriculture, gardening, cleaning, and pest control to ensure efficiency and precision. Available in various sizes, from handheld to backpack models, they are perfect for both small-scale and large-scale tasks.",
+      "specs": [
+        "Types: Manuel, Cap.16L"
+      ],
+      "images": [
+        "/images/05/Sprayer.png"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 31
+    },
+    {
+      "slug": "adhesive-tape",
+      "name": "Adhesive Tape",
+      "categorySlug": "household-products",
+      "description": "Adhesive Tape is a versatile tool made of a flexible backing material coated with a sticky adhesive layer. It is widely used for binding, sealing, repairing, or decorating in both household and industrial applications. Available in various types, such as duct tape, masking tape, and double-sided tape, it offers strong adhesion and easy application. Perfect for temporary fixes, crafting, or securing objects in place.",
+      "specs": [],
+      "images": [
+        "/images/05/adhensive-tape-768x768.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 32
+    },
+    {
+      "slug": "roofing-sheet",
+      "name": "Roofing Sheet",
+      "categorySlug": "other-products",
+      "description": "A Roofing Sheet is a durable material used for covering and protecting buildings from weather elements. Made from materials like metal, plastic, or fiber, it offers excellent insulation, water resistance, and longevity. Roofing sheets are available in various designs, such as corrugated, flat, or ribbed, to suit diverse architectural styles. Perfect for residential, commercial, and industrial roofing needs, ensuring strength and aesthetic appeal.",
+      "specs": [
+        "Name Roofing Sheet Types: Tks: 0.11mm;0.135mm, Types: Galvanized ,Aluzinc and Aluminium"
+      ],
+      "images": [
+        "/images/05/V12-600x600.jpg",
+        "/images/05/roofshet-1024x1024.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 33
+    },
+    {
+      "slug": "asphalt-felt",
+      "name": "Asphalt Felt",
+      "categorySlug": "other-products",
+      "description": "Asphalt Felt is a water-resistant material commonly used as an underlayment in roofing systems. Made from organic or fiberglass sheets saturated with asphalt, it provides an added layer of protection against moisture, wind, and weather damage. Durable and easy to install, asphalt felt enhances the lifespan of roofs while offering reliable insulation. Perfect for ensuring a strong and weatherproof roofing foundation.",
+      "specs": [],
+      "images": [
+        "/images/05/asp.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 34
+    },
+    {
+      "slug": "zinc-steel-fence",
+      "name": "Zinc Steel Fence",
+      "categorySlug": "other-products",
+      "description": "A Zinc Steel Fence is a durable and corrosion-resistant fencing solution made from steel coated with zinc for added protection. Known for its strength and weather resistance, it is ideal for securing residential, commercial, or industrial properties. With a sleek, modern design, it combines functionality with aesthetic appeal. Perfect for providing long-lasting security and a polished look to any space.",
+      "specs": [
+        "Color: Blue & White"
+      ],
+      "images": [
+        "/images/05/V28.jpg",
+        "/images/05/FENCE2.jpg",
+        "/images/05/FENCE1-1024x1024.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 35
+    },
+    {
+      "slug": "wall-spikes",
+      "name": "Wall Spikes",
+      "categorySlug": "other-products",
+      "description": "Wall Spikes are sharp, durable security accessories mounted on walls, fences, or gates to deter intruders. Made from materials like galvanized steel or stainless steel, they are resistant to weather and corrosion. Easy to install and highly effective, wall spikes provide an extra layer of security for residential, commercial, or industrial properties. Perfect for safeguarding premises while maintaining a discreet appearance.",
+      "specs": [],
+      "images": [
+        "/images/05/wall-spikes-524x563.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 36
+    },
+    {
+      "slug": "sand-paper",
+      "name": "Sand Paper",
+      "categorySlug": "other-products",
+      "description": "Sandpaper is a versatile abrasive material used for smoothing, shaping, or removing imperfections from surfaces. Made from a backing material coated with abrasive particles, it comes in various grit sizes to suit tasks ranging from fine finishing to heavy-duty sanding. Ideal for use on wood, metal, and other materials, it ensures a polished and refined surface. Perfect for DIY projects, professional craftsmanship, and surface preparation.",
+      "specs": [
+        "RollSize: 25 cm , 50m. Grit: P60, P80, P100, P120"
+      ],
+      "images": [
+        "/images/05/ADTAPE.webp",
+        "/images/05/sand-paper.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 37
+    },
+    {
+      "slug": "motortyre",
+      "name": "Motortyre",
+      "categorySlug": "other-products",
+      "description": "A Motor Tyre is a robust, high-performance tire designed for motorcycles, providing grip, stability, and durability on various terrains. Made with reinforced rubber and tread patterns tailored for specific riding conditions, it ensures safety and optimal performance. Motor tyres are available in different types, such as tubeless and tube-type, catering to diverse motorcycle models and uses. Perfect for enhancing road safety and ensuring a smooth, reliable ride.",
+      "specs": [],
+      "images": [
+        "/images/05/Picextyre.jpg"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 38
+    },
+    {
+      "slug": "scale",
+      "name": "Scale",
+      "categorySlug": "household-products",
+      "description": "A Scale is a precise measuring tool used to determine weight or size in various applications, from personal use to industrial needs. Available in different types, such as digital, mechanical, or balance scales, it offers accuracy and ease of use. Commonly used in kitchens, laboratories, and businesses, it ensures reliable measurements. Perfect for weighing items, tracking progress, or conducting experiments.",
+      "specs": [],
+      "images": [
+        "/images/05/Scale.png"
+      ],
+      "isFeatured": true,
+      "inStock": true,
+      "sortOrder": 39
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Galvanized Wire Rolls",
+      "subtitle": "Quality and Durability",
+      "ctaLabel": "Browse Products",
+      "ctaHref": "/products?category=wire-mesh",
+      "image": "/images/05/V8-1536x1536.jpg",
+      "sortOrder": 0
+    },
+    {
+      "title": "Durable Mesh Panels",
+      "subtitle": "Affordable Pricing",
+      "ctaLabel": "Shop Panels",
+      "ctaHref": "/products?category=wire-mesh",
+      "image": "/images/05/nf2-768x768.jpg",
+      "sortOrder": 1
+    },
+    {
+      "title": "Chainlink Fencing",
+      "subtitle": "Secure Your Space",
+      "ctaLabel": "Shop Fencing",
+      "ctaHref": "/products?category=wire-mesh",
+      "image": "/images/05/chainlink2-524x563.jpg",
+      "sortOrder": 2
+    }
+  ]
+}
